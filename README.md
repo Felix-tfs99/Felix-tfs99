@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Analista de dados Pleno<br>📚 Aprendendo: Ciência de dados<br>🎯 Meta: Me tornar especialista em Dados<br>🎲 Curiosidades: Eu amo Contrabaixo</p>
+<p align="left">✨ Analista de dados Pleno<br>📚 Aprendendo: Machine Learning e Deep Learning<br>🎯 Meta: Me tornar especialista em Dados<br>🎲 Curiosidades: Eu amo Contrabaixo</p>
 
 ###
 
